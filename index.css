@@ -1,0 +1,54 @@
+body{
+    background-image: url(./Images/bgimg1.jpg);
+    background-size: 100%;
+    
+}
+.navlinks {
+    list-style: none;
+}
+
+    h1{
+        font-family: 'Staatliches', cursive;
+     }   
+
+
+.navlinks li {
+    display: inline-block;
+    padding: 0 6px;
+    justify-content: space-around;
+    font-size: 150%;
+    font-family: 'Gemunu Libre', sans-serif;
+
+    font-weight: 100px;
+
+    
+
+
+}
+
+.navlinks li a:hover {
+color: darkgray;
+}
+
+h1{
+    color:white ;
+    font-size: 110px;
+}
+
+.a1,.a2,.a3,.a4,.a5,.a6{
+color: white;    
+text-decoration:none ;
+border-style: none;
+border-spacing: 5px;
+}
+   
+.copy-right{
+    position: absolute;
+    left: 50px;
+    bottom: 0.5%;   
+}
+
+.copy-right p{
+    color:darkorange;
+    font-size: 20px;
+}

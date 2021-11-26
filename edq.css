@@ -1,0 +1,25 @@
+.eq1{
+    text-align: left;
+   padding-left: 30px;
+   padding-top: 20px;
+   font-family: 'Gemunu Libre', sans-serif;
+   font-weight: 800;
+   font-size: 50px;
+}
+.eq2{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 40px;
+    font-weight: 5800;
+    list-style: none;
+
+}
+body{
+    background-image: linear-gradient(to right, rgb(221, 121, 7) , rgb(196, 193, 26));
+    
+
+}
+.container{
+    text-decoration: none;
+
+    text-align:center;
+}

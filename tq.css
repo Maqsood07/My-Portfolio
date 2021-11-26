@@ -1,0 +1,24 @@
+
+.tq1{
+    font-weight: 800;
+    font-size: 50px;
+    text-align: left;
+   padding-left: 35px;
+   padding-top: 0px;
+   font-family: 'Gemunu Libre', sans-serif;
+}
+body{
+    background-image: linear-gradient(to right, rgb(216, 23, 23) , rgb(134, 138, 252));
+}
+.lis{
+    list-style: none;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.container{
+    text-decoration: none;
+
+    text-align:center;
+}

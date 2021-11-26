@@ -1,0 +1,21 @@
+.pp{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: 800;
+    padding-left: 35px;
+    font-size: 50px;
+    font-style:oblique;
+}
+body{
+    background-image: linear-gradient(to right, rgb(245, 106, 71) , rgb(69, 128, 173));
+}
+
+
+.pp1{
+    font-family: 'Gemunu Libre', sans-serif;
+    list-style: none;
+    font-weight: 600;
+    font-size: 38px;
+}
+.container{
+    text-align:center;
+}

@@ -1,0 +1,26 @@
+.co{
+    text-align:center;
+    color:darkblue;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+
+}
+  .p1,.p2
+  {
+    padding-left: 80px;
+    text-align: center;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    padding-left: 30px;
+   
+  }  
+body{
+    background-image: linear-gradient(to right, rgba(91, 113, 222) , rgb(134, 168, 209));
+}  
+.container{
+    text-align:center;
+}
+
+
